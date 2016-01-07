@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Faisal Al Qasimi
-description: Coder // Thinker // Moonwalker
+description: Coder // Thinker // Living rooom dancer
 email: falqas@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -42,31 +42,36 @@ blurb: >
   **Faisal specializes in making things** for human people.
   Most of the things he makes are [digital interfaces](http://falqas.com){:target="_blank"},
   but he also puts effort into crafting [next-level codes](http://github.com/falqas){:target="_blank"}
-  and [videos](http://instagram.com/falqas){:target="_blank"} about making codes happen.
+  and [instagram](http://instagram.com/falqas){:target="_blank"} about travel.
 
 
 skills:
 - {name: Communication, value: '9'}
 - {name: Organization, value: '7'}
-- {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
+- {name: Learning, value: '9'}
+- {name: Teaching, value: '9'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: UX Design, value: '6'}
+- {name: Programming, value: '8'}
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+# - {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+# - {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+# - {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
+# - {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
+# - {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+# - {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+# - {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+# - {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+
+- {name: Foodly, folder: 'proj-9', file: 'work/proj-9.html'}
+- {name: Challengr, folder: 'proj-10', file: 'work/proj-10.html'}
+- {name: Game, folder: 'proj-11', file: 'work/proj-11.html'}
+- {name: BlogPinger, folder: 'proj-12', file: 'work/proj-12.html'}
 
 
 
@@ -88,7 +93,7 @@ clients:
 - {avatar: 'face-jackiesaik.jpg',
   name: 'Stacy Lang',
   title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  quote: '<p><strong>Yea, I guess he is good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
   logo: 'logo3.png'}
 - {avatar: 'face-teleject.jpg',
   name: 'Cleatus Cassidy',
