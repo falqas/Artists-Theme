@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Faisal Al Qasimi
-description: Coder // Thinker // Living rooom dancer
+description:
 # email: hello@falqas.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -40,7 +40,6 @@ seo:
 
 blurb: >
   **Faisal specializes in making things** for human people.
-  # Most of the things he makes are [digital interfaces](http://falqas.com){:target="_blank"},
   Most of the things he makes are digital interfaces,
   but he also puts effort into crafting [next-level codes](http://github.com/falqas){:target="_blank"}
   and [instagram](http://instagram.com/falqas){:target="_blank"} about travel.
